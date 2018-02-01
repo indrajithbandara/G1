@@ -6,3 +6,5 @@
 **/[Rr]elease
 **/*.vcxproj.filters
 **/*.vcxproj.user
+[xX]64
+**/[xX]64
