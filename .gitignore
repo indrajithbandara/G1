@@ -1,0 +1,8 @@
+# Stuff VS makes that I don't need.
+.vs
+[Dd]ebug
+**/[Dd]ebug
+[Rr]elease
+**/[Rr]elease
+**/*.vcxproj.filters
+**/*.vcxproj.user
