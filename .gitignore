@@ -8,3 +8,7 @@
 **/*.vcxproj.user
 [xX]64
 **/[xX]64
+*.exe
+*.ilk
+*.pdb
+
