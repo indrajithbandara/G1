@@ -1,2 +1,4 @@
 g1/GLFW/documentation/* linguist-documentation
 g1/GLFW/* linguist-vendored
+g1/GL/* linguist-vendored
+g1/glm/* linguist-vendored
